@@ -78,7 +78,7 @@
 		</plugins>
 	</build>
 
-distributionManagement>
+<distributionManagement>
 
       <repository>
           <id>maven-releases</id>
